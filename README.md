@@ -1,9 +1,11 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/AK-am-zN)
+
 ### დავალება: "Introduction to CSS" - დიზაინის იმპლემენტაცია
 
 **აღწერა:**
 ააწყვეთ მოცემული დიზაინი HTML/CSS-ის გამოყენებით. მთავარი მიზანია სუფთა და ვალიდური კოდის წერა, რომელიც ვიზუალურად ზუსტად იმეორებს დიზაინს.
 
-🔗 **Figma Link:** [Introduction to CSS](https://www.figma.com/design/xRu6Y23NtPIMWgtRAMcriV/Introduction-to-css?node-id=0-1&t=cLWxw2oV5naP99fg-1)
+🔗 **Figma Link:** [Introduction to CSS](https://www.figma.com/design/xRu6Y23NtPIMWgtRAMcriV/Introduction-to-css?node-id=0-1&p=f&t=Q8qFaLTElZMA1ZTm-0)
 
 ---
 
@@ -23,7 +25,7 @@
 1. გადაიღეთ აწყობილი გვერდის სურათი (Screenshot) და დაარქვით სახელი (`preview.png`).
 2. ატვირთეთ ეს სურათი თქვენს GitHub რეპოზიტორიაში (კოდის ფაილებთან ერთად).
 
-![Design Preview](./preview.png)
+![Design Preview](./Ani_css_preview.png)
 
 #### 🚀 (Optional) ჰოსტინგი
 
@@ -36,8 +38,8 @@
 
 #### ✅ მიღების კრიტერიუმები (Acceptance Criteria)
 
--   [ ] ვიზუალი შეესაბამება Figma-ს დიზაინს.
--   [ ] HTML სტრუქტურა სემანტიკურად სწორია.
--   [ ] CSS სტილიზაცია ხდება კლასებით.
--   [ ] არ გვხვდება დუბლირებული ID-ები.
--   [ ] `README.md` ფაილში ჩანს ნამუშევრის სქრინშოთი.
+- [ ] ვიზუალი შეესაბამება Figma-ს დიზაინს.
+- [ ] HTML სტრუქტურა სემანტიკურად სწორია.
+- [ ] CSS სტილიზაცია ხდება კლასებით.
+- [ ] არ გვხვდება დუბლირებული ID-ები.
+- [ ] `README.md` ფაილში ჩანს ნამუშევრის სქრინშოთი.
